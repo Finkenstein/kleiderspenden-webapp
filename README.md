@@ -15,7 +15,6 @@ Die Anwendung wurde mit HTML, CSS und einem einfachen JavaScript-Skript umgesetz
 - `style.css` – Gestaltung der Seite mit einfachem responsivem Design
 - `script.js` – JavaScript zur Anzeige der Abholadresse je nach Übergabeart
 - `README.md` – Diese Projektbeschreibung
-- (optional) Screenshots zur Veranschaulichung
 
 ## Funktionen
 
