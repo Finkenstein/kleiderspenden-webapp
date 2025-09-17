@@ -1,25 +1,31 @@
 # Kleiderspenden-Registrierung – Fallstudie
 
-Dies ist ein Beispielprojekt im Rahmen des Kurses **Programmierung von Webanwendungsoberflächen (IPWA01-01)** an der IU.
+Dieses Repository enthält die Projektdateien zur Fallstudie im Kurs  
+**IPWA01-01 – Programmierung von Webanwendungsoberflächen** an der IU Internationale Hochschule.
 
-## Projektbeschreibung
+## 📘 Projektbeschreibung
 
-Die Anwendung dient zur Registrierung von Kleiderspenden für einen gemeinnützigen Verein. Spendende können dabei angeben, ob sie ihre Kleidung an der Geschäftsstelle abgeben oder abholen lassen möchten. Zusätzlich kann ein Krisengebiet ausgewählt werden.
+Ziel des Projekts ist die Planung und beispielhafte Umsetzung einer einfachen, responsiven Webanwendung zur digitalen Erfassung von Kleiderspenden.  
+Nutzer:innen können dabei wählen, ob die Spende abgeholt oder selbst zur Sammelstelle gebracht werden soll.  
+Die Anwendung wurde mit HTML, CSS und einem einfachen JavaScript-Skript umgesetzt.
 
-Das Formular ist statisch umgesetzt und veranschaulicht den geplanten Aufbau der Benutzeroberfläche.
+## 📄 Enthaltene Dateien
 
-## Technologien
+- `index.html` – Struktur der Webseite mit Formular, Navigation und Layout
+- `style.css` – Gestaltung der Seite mit einfachem responsivem Design
+- `script.js` – JavaScript zur Anzeige der Abholadresse je nach Übergabeart
+- `README.md` – Diese Projektbeschreibung
+- (optional) Screenshots zur Veranschaulichung
 
-- HTML5
-- CSS3 (inkl. einfachem responsivem Design)
+## ⚙️ Funktionen
 
-## Inhalte
+- Statisches Layout mit Header, Navigation, Content-Bereich und Footer
+- Responsives Design für verschiedene Bildschirmgrößen
+- Formular zur Registrierung von Kleiderspenden
+- Dynamisches Ein- und Ausblenden der Abholadresse per JavaScript
+- Klar strukturierter Quellcode zur Weiterverwendung oder Erweiterung
 
-- `index.html` – Struktur der Webanwendung
-- `style.css` – Gestaltung und responsives Layout
-- *(kein JavaScript in dieser Version)*
+## 📎 Hinweis
 
-## Hinweis
-
-Diese Beispielanwendung wurde im Rahmen einer Fallstudie erstellt und stellt keine produktive Webanwendung dar.
-
+Dieses Projekt wurde im Rahmen einer Fallstudie erstellt und dient der Veranschaulichung grundlegender Webentwicklungskonzepte.  
+Die Umsetzung ist bewusst einfach gehalten und erhebt keinen Anspruch auf Vollständigkeit oder Produktionsreife.
