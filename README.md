@@ -3,13 +3,13 @@
 Dieses Repository enthält die Projektdateien zur Fallstudie im Kurs  
 **IPWA01-01 – Programmierung von Webanwendungsoberflächen** an der IU Internationale Hochschule.
 
-## 📘 Projektbeschreibung
+## Projektbeschreibung
 
 Ziel des Projekts ist die Planung und beispielhafte Umsetzung einer einfachen, responsiven Webanwendung zur digitalen Erfassung von Kleiderspenden.  
 Nutzer:innen können dabei wählen, ob die Spende abgeholt oder selbst zur Sammelstelle gebracht werden soll.  
 Die Anwendung wurde mit HTML, CSS und einem einfachen JavaScript-Skript umgesetzt.
 
-## 📄 Enthaltene Dateien
+## Enthaltene Dateien
 
 - `index.html` – Struktur der Webseite mit Formular, Navigation und Layout
 - `style.css` – Gestaltung der Seite mit einfachem responsivem Design
@@ -17,7 +17,7 @@ Die Anwendung wurde mit HTML, CSS und einem einfachen JavaScript-Skript umgesetz
 - `README.md` – Diese Projektbeschreibung
 - (optional) Screenshots zur Veranschaulichung
 
-## ⚙️ Funktionen
+## Funktionen
 
 - Statisches Layout mit Header, Navigation, Content-Bereich und Footer
 - Responsives Design für verschiedene Bildschirmgrößen
@@ -25,7 +25,7 @@ Die Anwendung wurde mit HTML, CSS und einem einfachen JavaScript-Skript umgesetz
 - Dynamisches Ein- und Ausblenden der Abholadresse per JavaScript
 - Klar strukturierter Quellcode zur Weiterverwendung oder Erweiterung
 
-## 📎 Hinweis
+## Hinweis
 
 Dieses Projekt wurde im Rahmen einer Fallstudie erstellt und dient der Veranschaulichung grundlegender Webentwicklungskonzepte.  
 Die Umsetzung ist bewusst einfach gehalten und erhebt keinen Anspruch auf Vollständigkeit oder Produktionsreife.
